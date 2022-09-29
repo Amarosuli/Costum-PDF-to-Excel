@@ -6,6 +6,10 @@ SORRY, MY ENGLISH ISN'T PERFECT GUYS..
 
 It is basically a converter app from PDF format to Excel. It strictly costum for specific format of PDF file in my workplace. Yes, there a couple free applications that identically to this project aim. But I cant find the perfect one to my need. So, here i made my own tool..
 
+## Questioning This?
+
+Why there's jupyter file? It makes me easier in developing this apps, especialy in how to organize logical statement. So, I work with jupyter before turning to the actual Python Files
+
 ## Background
 
 I work in a MRO Company, not as programmer but planner. So, one of my job is documents segregation. It was a document that we need to control as history of every task that performed in a project.
