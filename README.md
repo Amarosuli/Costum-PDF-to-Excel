@@ -21,3 +21,9 @@ As the reference for my team to make sure all documents was collected, usually w
 It would be better if one List Documents file, that editable, use as refference for team. So, i want to make an Excel version of List Documents, put in the Microsoft 365, and everyone involved to control documents have same perspective and persuasion.
 
 ....
+
+## License
+
+[MIT](LICENSE.md)
+
+Copyright (c) 2022-present, Maulana Haikal (Amarosuli)
